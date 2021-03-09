@@ -23,4 +23,4 @@ The project ulitizes the OpenWeather API and Google API to find the weather for 
 * Heat map that displacys the humidity for every city from Part I was created.
 * The city list is reduced to less than 10 based on weather conditions.
 * Google Places API was used to find the first hotel for each city located within 5000 meters of the city coordinates.
-* The hotels were plotted on top of the humidity heatmap with each pin containing the Hotel Name, City and Country. 
+* The hotels were marked on top of the humidity heatmap with each pin containing the Hotel Name, City and Country. 
