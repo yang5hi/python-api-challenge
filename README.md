@@ -1,5 +1,5 @@
 # python-api-challenge
-key words: OpenWeather API, Google API
+key words: OpenWeather API, Google Places API, citipy, gmaps
 
 # Background
 The project ulitizes the OpenWeather API and Google API to find the weather for a set of geographic cities with population over 500. Then the list of cities is reduced with locations and weather critiria. With the final city set, the hotels were listed for each cities under Google API search results.
