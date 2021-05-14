@@ -10,7 +10,7 @@ The project ulitizes the OpenWeather API and Google API to find the weather for 
   * Humidity (%) vs. Latitude
   * Cloudiness (%) vs. Latitude
   * Wind Speed (mph) vs. Latitude
-* The plots above were then seperated into Northern Hemisphere and Southern Hemisphere. Linear regression were done on the following eright graphes.
+* The plots above were then seperated into Northern Hemisphere and Southern Hemisphere. Linear regression were done on the following eight graphes.
   * Northern Hemisphere - Temperature (F) vs. Latitude
   * Southern Hemisphere - Temperature (F) vs. Latitude
   * Northern Hemisphere - Humidity (%) vs. Latitude
